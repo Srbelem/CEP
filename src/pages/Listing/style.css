@@ -1,0 +1,61 @@
+.container {
+    padding: 0 18% ;
+    margin-bottom: 5%;
+}
+
+.container h3 {
+    color: #555577;
+   
+}
+.cabecalho { 
+    background-color: rgb(13, 86, 134);
+    display:flex;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.cabecalho p {
+    margin-left: 11%;
+}
+
+.body {
+    font-size: 15px;
+    display: flex;
+    border-bottom: 1px solid darkgray;
+}
+
+.component1 {
+    width: 30%;
+    margin-left: 10px;
+}
+
+.component2 {
+    width: 22%;
+    margin-left: 10px;
+}
+
+.component3 {
+    width: 22%;
+}
+
+.component4 {
+    width: 16%;
+    display: flex;
+}
+
+.body p {
+    text-align: center;
+}
+
+.deletar {
+    height: 18px;
+    width: 16px;
+    border-radius: 10px;
+    background-color: #d40b0b;
+    color: aliceblue;
+    padding: 0 10px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-left: -10px;
+}
+

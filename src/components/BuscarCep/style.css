@@ -1,0 +1,56 @@
+.container-cep {
+    background-color:aliceblue;
+}
+
+.label {
+    margin-right: 10px;
+}
+.content h2{
+    color: #555577;
+}
+
+.endereco {
+    display: flex;
+}
+
+.form-group {
+    margin-left: 20px;
+}
+
+.text {
+    display: flex;
+}
+
+.component {
+    margin-left: 20px;
+}
+
+.component p{
+    font-size: 12px;
+    margin-right: 20px;
+}
+
+.component h6{
+    font-size: 13px;
+    margin-right: 20px;
+}
+
+.form-group p {
+font-size: 10px;
+}
+
+.salvar {
+    height: 18px;
+    width: 35px;
+    border-radius: 10px;
+    background-color: #03aa2d;
+    color: aliceblue;
+    cursor: pointer;
+    padding-left: 8px;
+    padding-top: 2px;
+    font-size: 10px;
+}
+
+.form-group h5{
+    color: #03aa2d;
+}

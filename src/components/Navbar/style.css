@@ -1,0 +1,16 @@
+header {
+    height: 60px;
+    background-color: rgb(13, 86, 134);
+    display: flex;
+    align-items: center;
+}
+
+.nav-content {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    margin-top: 60px;
+    margin-left: -100%;
+}
+
